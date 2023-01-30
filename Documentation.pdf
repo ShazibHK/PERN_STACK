@@ -1,0 +1,7 @@
+[1]npm install passport passport-local passport-local-mongoose passport-jwt jwt-simple --save
+    Passport.js for authentication.
+    The passport-local is Passport.js plugin which provides the local username and password-based authentication strategy to the application.
+    Passport-local-mongoose handles all the complex task of authentication with databases like hashing passwords and authenticating requests.
+    Passport-jwt: It is Passport.js authentication strategy for JWT.
+    JWT-simple: As the name suggests, it is a very minimal library for encoding and decoding JWT tokens.
+    
